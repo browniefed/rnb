@@ -16,7 +16,7 @@ Although Android has yet to be released it is in active development and already 
 
 ### Code Reuse
 
-Code reuse is a major aspect of React Native. Code reuse across for both IOS and Android allows you to more easily maintain your applications without hiring multiple teams of developers. Facebook built both the IOS and Android Facebook Ads Manager apps in React Native. They accomplished 87% code resuse from the IOS app when building the Android app.
+Code reuse is a major aspect of React Native. Code reuse across for both IOS and Android allows you to more easily maintain your applications without hiring multiple teams of developers. Facebook built both the IOS and Android Facebook Ads Manager apps in React Native. They accomplished *87% code resuse* from the IOS app when building the Android app.
 
 ### Instant Reload
 

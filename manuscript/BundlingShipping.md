@@ -1,3 +1,3 @@
 # Bundling and Shipping
 
-## Intro
+## Introduction

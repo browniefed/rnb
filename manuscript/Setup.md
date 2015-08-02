@@ -9,7 +9,7 @@ There is already a great step by step guid at [http://facebook.github.io/react-n
 - Homebrew
 - NVM - ( Node Version Manager).
 - NPM - (Node Package manager).
-- IO.js or Node installed. The recommended is IO.js, however Node and IO.js are merging together so this eventually will just be node.
+- iojs or node installed. iojs is recommended, however Node and iojs are merging together so this eventually will just be node.
 - Watchman, this is for watching for file changes to reload.
 - [OPTIONAL] - Flow for type checking your JavaScript. This is an optional install, and we won't be covering it.
 - react-native-cli globally installed. This will help us initialize a project
