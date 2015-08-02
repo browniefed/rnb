@@ -1,5 +1,7 @@
 # Getting Help
 
+## Help
+
 You may run into problems and things that aren't covered in this book. If that is the case please let me know so I can cover it and make this a complete book. In the mean time there are some places you can get help.
 
 First start with the React Native Docs here [http://facebook.github.io/react-native/docs/getting-started.html](http://facebook.github.io/react-native/docs/getting-started.html). I will say they are somewhat complete but there is a significant amount that is currently undocumented.
@@ -15,7 +17,7 @@ There may be some cool nugetts of goodness on the twitter #reactnative, which ca
 Finally if you find any bugs post them on the github issues page and they'll be answered, fixed, and or scrubbed as soon as possible. The React Native github issues can be found here [https://github.com/facebook/react-native/issues](https://github.com/facebook/react-native/issues).
 
 
-# Example Components
+## Example Components
 
 There are a few places that show examples, and allow you to find reusable components.
 

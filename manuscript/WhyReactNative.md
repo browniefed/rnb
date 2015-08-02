@@ -29,4 +29,6 @@ Debugging your application is exactly like you would do it on the web. React Nat
 In a later chapter we will go in depth with Debugging.
 
 
+## Conclusion
+
 Ultimately it boils down to an active community, code reuse across platforms, debugging, instant reloading, and using the same knowledge base to build both web and mobile applications.

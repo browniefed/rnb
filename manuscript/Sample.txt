@@ -1,4 +1,4 @@
-Intro.txt
-GettingHelp.txt
-WhyReactNative.txt
+Intro.md
+GettingHelp.md
+WhyReactNative.md
 Setup.md
