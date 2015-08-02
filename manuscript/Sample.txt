@@ -1,3 +1,4 @@
 Intro.txt
 GettingHelp.txt
 WhyReactNative.txt
+Setup.md
