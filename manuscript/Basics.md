@@ -19,3 +19,9 @@ The `Image` component is equivalent to the `image` tag on the web.
 ## TextInput
 
 The `TextInput` component is equivalent to the `input` tag on the web.
+
+## TouchableHighlight
+
+## TouchableOpacity
+
+## TouchableWithoutFeedback

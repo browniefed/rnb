@@ -6,13 +6,15 @@ Developing.md
 Basics.md
 JustComponents.md
 AdvancedComponents.md
+Polyfills.md
 APIs.md
 Layout.md
 Accessibility.md
-Animations.md
+Animation.md
 Art.md
 Debugging.md
-Testinng.md
+Testing.md
 BundlingShipping.md
 Techniques.md
+CommunityComponents.md
 Examples.md
