@@ -1,5 +1,7 @@
 # Why React Native
 
+## Reasonings
+
 ### Alternatives
 
 There are a lot of alternatives to React Native, including Phone Gap, NativeScript, Titanium Appcelerator, and many others. One of the major benefits of React Native is the concept of "Learn once write anywhere". Once you learn how to build with React you build things the same way with React Native.
