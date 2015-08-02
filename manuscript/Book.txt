@@ -2,7 +2,9 @@ Intro.md
 WhyReactNative.md
 GettingHelp.md
 Setup.md
+Developing.md
 Basics.md
+JustComponents.md
 AdvancedComponents.md
 APIs.md
 Layout.md
@@ -13,3 +15,4 @@ Debugging.md
 Testinng.md
 BundlingShipping.md
 Techniques.md
+Examples.md
