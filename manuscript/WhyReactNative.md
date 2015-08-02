@@ -4,7 +4,7 @@
 
 ### Alternatives
 
-There are a lot of alternatives to React Native, including Phone Gap, NativeScript, Titanium Appcelerator, and many others. One of the major benefits of React Native is the concept of "Learn once write anywhere". Once you learn how to build with React you build things the same way with React Native.
+There are a lot of alternatives to React Native, including PhoneGap, NativeScript, Titanium Appcelerator, and many others. One of the major benefits of React Native is the concept of "Learn once write anywhere". Once you learn how to build with React you build things the same way with React Native.
 
 ### Community
 
@@ -30,7 +30,12 @@ Debugging your application is exactly like you would do it on the web. React Nat
 
 In a later chapter we will go in depth with Debugging.
 
+### Truly Native
+
+Well the UI is native, the logic in JavaScript. However the benefits of React Native are that the interface that is constructed in JavaScript actually renders to Native components. This gives you the power of actually Native feeling components because you're actually creating Native components. When you use something like PhoneGap and attempt to recreate what a Native component looks and feels like it will generally end in failure. You won't be able to capture all the nuances consistently, and when those native component interactions change you need to rework your components.
+
+So being truly native lets us take advantage actual operating system components, and animations.
 
 ## Conclusion
 
-Ultimately it boils down to an active community, code reuse across platforms, debugging, instant reloading, and using the same knowledge base to build both web and mobile applications.
+Ultimately it boils down to an active community, code reuse across platforms, debugging, instant reloading, actually being native, and using the same knowledge base to build both web and mobile applications.
